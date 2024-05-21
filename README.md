@@ -1,2 +1,2 @@
 # getCoding
-Initial commit
+Very basic JS file
